@@ -1,0 +1,28 @@
+name: Anna Thurber
+favicon: null
+layout_spectrum: 0.7630723456386477
+typography_spectrum: 0.027702700113877654
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5454234897624701
+  lightness: 0.7527425354346633
+  saturation: 0.8958037896081805
+  rhythmicContrast: 0.44015298248268664
+purpose: []
